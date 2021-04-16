@@ -1,0 +1,16 @@
+.container{
+     display: flex;
+     justify-content: center;
+     text-align: center;
+     padding-top: 50px;
+     padding-bottom: 50px;
+     margin-bottom: 2px;
+     margin-inline-start: 20%;
+     margin-inline-end: 20%;
+     background-color: white;
+}
+
+
+@media screen and  (max-width: 500px){
+     
+}
