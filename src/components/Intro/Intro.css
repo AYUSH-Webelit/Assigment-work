@@ -1,0 +1,9 @@
+.image{
+     background: url('sidemen.jpg') no-repeat center ;     
+     background-size: cover;
+     padding: 25%;
+}
+
+.position{
+    text-align: center;
+}

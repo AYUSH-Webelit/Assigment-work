@@ -1,0 +1,22 @@
+.spacing{
+     text-align: center;
+     margin-right: 65%;
+     margin-left: 10px;
+     margin-bottom: 20px;
+     background-color: white;
+   
+}
+
+
+.direction{
+     display: flex;
+     justify-content: end;
+}
+
+@media screen and (min-width: 500px ) {
+     .spacing{
+     margin-right: 5%;
+     margin-left: 10px;
+     padding:10px;
+     }
+}
